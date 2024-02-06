@@ -16,7 +16,7 @@ void saludar2(String nombre) {
   print('Hola $nombre');
 }
 
-// funciones con argumentos opciones
+// funciones con argumentos opcionales
 void saludar3([String nombre = 'No name']) {
   print('Hola $nombre');
 }
